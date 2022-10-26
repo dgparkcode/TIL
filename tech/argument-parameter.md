@@ -18,7 +18,7 @@ setCard(card)
 정의된 함수내에서 사용되는 전달받은 값을 의미한다.
 
 ```
-fun setCard(card: Card) { // parameter: card
+fun setCard(card: Card) {
 ...
 }
 ```
